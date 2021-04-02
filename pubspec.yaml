@@ -32,6 +32,12 @@ dependencies:
   # Firebase Dependecies
   firebase_core: "0.5.0"
 
+  # Google fonts
+  google_fonts: ^1.1.0
+
+  # Authentication
+  firebase_auth: "^0.18.1"
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
