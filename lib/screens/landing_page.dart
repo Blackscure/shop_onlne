@@ -7,6 +7,7 @@ import 'package:shop/screens/home_page.dart';
 import 'package:shop/screens/login_page.dart';
 
 class LandingPage extends StatelessWidget {
+  // ignore: non_constant_identifier_names
   final Future<FirebaseApp> _Initialization = Firebase.initializeApp();
   @override
   Widget build(BuildContext context) {

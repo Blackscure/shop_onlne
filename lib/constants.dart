@@ -7,4 +7,10 @@ class Constants {
     fontWeight: FontWeight.w600,
     color: Colors.black
   );
+
+  static const boldHeading = TextStyle(
+    fontSize: 22.0,
+      fontWeight: FontWeight.w600,
+    color: Colors.black
+  );
 }
